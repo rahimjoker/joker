@@ -1,7 +1,5 @@
 import random
 
-# Awroken
-
 MINIMUM = 1
 MAXIMUM = 9
 NUMBER = random.randint(MINIMUM, MAXIMUM)
